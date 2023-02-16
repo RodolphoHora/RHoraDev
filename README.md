@@ -3,7 +3,11 @@
 - 🔭 Estou atualmente buscando um estágio.
 - 🌱 Estou aprendendo sobre Java Script, SQL e C#.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHoraDev)](https://github.com/RHoraDev/github-readme-stats)
+<div display="inline-block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RHoraDev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHoraDev&layout=compact&theme=tokyonight"/>
+</div>
+
 
 <div style="display: inline-block">
   <img alt="Rod-HTML"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
