@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo sobre Java Script, SQL e C#.
 
 <div display="inline-block">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RHoraDev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=RHoraDev&show_icons=true&theme=tokyonight"/>
   <img height="180em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHoraDev&layout=compact&theme=tokyonight"/>
 </div>
 
