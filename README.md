@@ -28,3 +28,5 @@
   <a align="center" href="https://codepen.io/RodHora_Dev" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
   </a>
 </div>
+
+![Snake animation](https://github.com/RHoraDev/RHoraDev.git)
