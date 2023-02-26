@@ -29,4 +29,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/RHoraDev/RHoraDev.git)
+![snake gif](https://github.com/RHoraDev/RHoraDev/blob/output/github-contribution-grid-snake.svg)
