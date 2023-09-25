@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Rodolpho!
 
-- 🔭 Estou atualmente buscando um estágio.
-- 🌱 Estou aprendendo sobre Java Script, SQL e C#.
+- 🔭 Estou atualmente buscando um estágio / emprego na área.
+- 🌱 Estou aprofundando meus conhecimentos sobre HTML e CSS.
 
 <div style="display: flex;">
   <img style="margin: 20px;" height="185em" width="400px" src="https://github-readme-stats.vercel.app/api?username=RHoraDev&show_icons=true&theme=tokyonight"/>
